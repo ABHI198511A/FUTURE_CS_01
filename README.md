@@ -96,9 +96,7 @@ Apply strong password policies
 Use CSRF tokens
 Implement rate limiting & account lockout
 
-#Task 2 
-🔐 Security Alert Monitoring & Incident Response (SOC Project)
-
+#Task 2 - 🔐 Security Alert Monitoring & Incident Response (SOC Project)
 
 This project demonstrates Security Operations Center (SOC) fundamentals by simulating real-world security alert monitoring and incident response activities using SIEM tools. The objective is to analyze logs, detect suspicious behavior, classify incidents, and prepare a structured Incident Response Report.
 
@@ -164,3 +162,6 @@ Indicators of Compromise (IoCs)
 Impact analysis
 Containment & mitigation steps
 Recommendations
+
+🔐 TASK 3 – Secure File Sharing System
+
